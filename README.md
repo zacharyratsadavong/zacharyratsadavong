@@ -6,6 +6,8 @@
   - [Document an Incident with an Incident Handler's Journal](https://github.com/zacharyratsadavong/Incident-Handlers-Journal) 
 - <b>Identifying System Vulnerabilities</b>
   - [Analyze a Vulnerable System for a Small Business](https://github.com/zacharyratsadavong/Identify-System-Vulnerabilities)
+- <b>Python</b>
+  - [Update a File Through Python Algorithm](https://github.com/zacharyratsadavong/Update-File-Through-Python-Algo)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -17,8 +19,6 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
 

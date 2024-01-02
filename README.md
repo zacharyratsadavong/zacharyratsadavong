@@ -3,7 +3,7 @@
 <h2> Cybersecurity Projects & Activities:</h2>
 
 - <b>Incident Response</b>
-  - [Document an incident with an incident handler's journal](https://github.com/zacharyratsadavong/Incident-Handlers-Journal) 
+  - [Document an Incident with an Incident Handler's Journal](https://github.com/zacharyratsadavong/Incident-Handlers-Journal) 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>

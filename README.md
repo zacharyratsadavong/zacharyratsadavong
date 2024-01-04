@@ -9,10 +9,8 @@
 - <b>Python</b>
   - [Update a File Through Python Algorithm](https://github.com/zacharyratsadavong/Update-File-Through-Python-Algo)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Hashing Algorithms and Coding a FIM (File Integrity Monitor)](https://github.com/zacharyratsadavong/Hashing-Algos-File-Integrity-Monitor)
+  - [JWipe (Disk Wiping Utility)](https://github.com/zacharyratsadavong/JWipe-PowerShell)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)

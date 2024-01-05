@@ -11,7 +11,7 @@
 - <b>PowerShell</b>
   - [Hashing Algorithms and Coding a FIM (File Integrity Monitor)](https://github.com/zacharyratsadavong/Hashing-Algos-File-Integrity-Monitor)
   - [JWipe (Disk Wiping Utility)](https://github.com/zacharyratsadavong/JWipe-PowerShell)
-  - [Active directory Bulk User Creation](https://github.com/zacharyratsadavong/Active-Directory-User-Creation)
+  - [Active Directory Bulk User Creation](https://github.com/zacharyratsadavong/Active-Directory-User-Creation)
 
 <!--
 **zacharyratsadavong/zacharyratsadavong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

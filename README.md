@@ -6,6 +6,7 @@
   - [Document an Incident with an Incident Handler's Journal](https://github.com/zacharyratsadavong/Incident-Handlers-Journal) 
 - <b>Identifying System Vulnerabilities</b>
   - [Analyze a Vulnerable System for a Small Business](https://github.com/zacharyratsadavong/Identify-System-Vulnerabilities)
+  - [OpenVAS Vulnerability Management Lab Tutorial](https://github.com/zacharyratsadavong/OpenVAS-Vulnerability-Management)
 - <b>Python</b>
   - [Update a File Through Python Algorithm](https://github.com/zacharyratsadavong/Update-File-Through-Python-Algo)
 - <b>PowerShell</b>
